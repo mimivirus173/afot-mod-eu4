@@ -13,4 +13,5 @@ replace_path="history/wars"
 replace_path="history_provinces"
 
 name="Alternate Future Of Titan"
-supported_version="1.35.6"
+supported_version="1.35.*"
+picture="thumbnail.png"
